@@ -107,13 +107,8 @@ const Footer = () => {
                 </Link>
               </li>
               <li>
-                <Link href="/careers" className="link link-hover block">
-                  Jobs
-                </Link>
-              </li>
-              <li>
-                <Link href="/press" className="link link-hover block">
-                  Press Kit
+                <Link href="/faq" className="link link-hover block">
+                  FAQ
                 </Link>
               </li>
             </ul>
