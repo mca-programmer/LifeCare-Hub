@@ -8,7 +8,7 @@ const AboutSection = () => {
 
   const stats = [
     {
-      number: "500+",
+      number: "1000+",
       label: "Happy Families",
       icon: "👨‍👩‍👧‍👦",
       color: "from-blue-500 to-blue-600",
@@ -174,7 +174,7 @@ const AboutSection = () => {
                 <div className="absolute bottom-4 left-4 sm:bottom-6 sm:left-6 bg-white/95 backdrop-blur-sm px-4 sm:px-6 py-2 sm:py-3 rounded-xl shadow-lg">
                   <div className="flex items-center gap-2 sm:gap-3">
                     <div className="w-2 h-2 sm:w-3 sm:h-3 bg-green-500 rounded-full animate-pulse"></div>
-                    <span className="font-semibold text-xs sm:text-sm md:text-base text-gray-800">Trusted by 500+ Families</span>
+                    <span className="font-semibold text-xs sm:text-sm md:text-base text-gray-800">Trusted by 1000+ Families</span>
                   </div>
                 </div>
               </div>
