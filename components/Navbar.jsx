@@ -50,6 +50,14 @@ const Navbar = () => {
           About Us
         </Link>
       </li>
+      <li>
+        <Link
+          href="/contact"
+          className={pathname === "/contact" ? "text-primary font-bold" : ""}
+        >
+          Contact Us
+        </Link>
+      </li>
       {user && (
         <li>
           <Link
