@@ -11,7 +11,7 @@ export const metadata = {
   title: "LifeCare Hub - Trusted LifeCare Hubs",
   description: "Find reliable baby sitting, elderly care, and more.",
   icons: {
-    icon: '/assets/logo/care-service-logo.png',
+    icon: '/favicon.ico',
   },
 };
 
