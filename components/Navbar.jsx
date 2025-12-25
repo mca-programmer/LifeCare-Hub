@@ -42,6 +42,14 @@ const Navbar = () => {
           Services
         </Link>
       </li>
+      <li>
+        <Link
+          href="/about"
+          className={pathname === "/about" ? "text-primary font-bold" : ""}
+        >
+          About Us
+        </Link>
+      </li>
       {user && (
         <li>
           <Link
