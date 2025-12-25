@@ -58,6 +58,14 @@ const Navbar = () => {
           Contact Us
         </Link>
       </li>
+      <li>
+        <Link
+          href="/faq"
+          className={pathname === "/faq" ? "text-primary font-bold" : ""}
+        >
+          FAQ
+        </Link>
+      </li>
       {user && (
         <li>
           <Link

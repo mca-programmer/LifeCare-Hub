@@ -2,7 +2,6 @@
 
 import { useState, useEffect } from 'react';
 import Link from 'next/link';
-import { motion } from 'framer-motion';
 
 const HeroSection = () => {
   const [mounted, setMounted] = useState(false);
