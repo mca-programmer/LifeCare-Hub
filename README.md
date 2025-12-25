@@ -2,6 +2,15 @@
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge&logo=vercel)](https://life-care-hub.vercel.app/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/mca-programmer/LifeCare-Hub)  
+---
+
+## **📸 Screenshots / GIF**
+
+[![home.png](https://i.postimg.cc/JnNrhrm6/home.png)](https://postimg.cc/mzrfXGPC)
+---
+[![service.png](https://i.postimg.cc/g06RNZqw/service.png)](https://postimg.cc/zL8Vf3Q5)
+
+> Replace with your actual live GIF / screenshot for best visual impact.
 
 ---
 
@@ -35,13 +44,6 @@ It allows users to **register, upload profile, book services, and manage account
 [![Cloudinary](https://img.shields.io/badge/Cloudinary-blue?style=for-the-badge&logo=cloudinary)]  
 [![Framer Motion](https://img.shields.io/badge/FramerMotion-pink?style=for-the-badge)]  
 
----
-
-## **📸 Screenshots / GIF**
-
-![LifeCare Hub Demo GIF](https://i.ibb.co/example/demo.gif)  
-
-> Replace with your actual live GIF / screenshot for best visual impact.
 
 ---
 
@@ -52,3 +54,4 @@ It allows users to **register, upload profile, book services, and manage account
 ```bash
 git clone https://github.com/mca-programmer/LifeCare-Hub.git
 cd LifeCare-Hub
+
